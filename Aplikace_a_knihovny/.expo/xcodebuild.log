@@ -1,0 +1,6 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -workspace /Users/mikamac/Documents/School/BP/hafo/ios/Hafu.xcworkspace -configuration Debug -scheme Hafu -destination id=6053E2F5-7275-4557-A801-014AC8314DF8
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Aplikace_a_knihovny/android/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/Aplikace_a_knihovny/android/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Aplikace_a_knihovny/ios/Hafu.xcodeproj/project.xcworkspace" />
+      <excludeFolder url="file://$MODULE_DIR$/Aplikace_a_knihovny/ios/Pods" />
+      <excludeFolder url="file://$MODULE_DIR$/Aplikace_a_knihovny/ios/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
