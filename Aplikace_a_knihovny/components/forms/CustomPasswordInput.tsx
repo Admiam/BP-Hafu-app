@@ -36,6 +36,7 @@ const CustomPasswordInput: React.FC<CustomPasswordInputProps> = ({
                     style={styles.input}
                     autoCapitalize={autoCapitalize}
                     autoCorrect={false}
+                    maxLength={100}
                     {...props}
                 />
                 <TouchableOpacity

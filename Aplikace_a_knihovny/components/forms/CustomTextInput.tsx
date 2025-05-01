@@ -34,6 +34,7 @@ const CustomTextInput: React.FC<CustomTextInputProps> = ({
                 autoCorrect={false}
                 autoCapitalize={autoCapitalize}
                 selectTextOnFocus={false}
+                maxLength={100}
                 {...props}
             />
         </ThemedView>
