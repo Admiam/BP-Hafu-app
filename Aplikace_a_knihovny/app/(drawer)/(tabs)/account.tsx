@@ -99,11 +99,15 @@ const AccountScreen: React.FC = () => {
     };
 
     async function onDelete() {
-        try {
-            await deleteAccount();
-        } catch (error) {
-            console.error("Error deleting account:", error);
-        }
+        // try {
+        //     await deleteAccount();
+        // } catch (error) {
+        //     console.error("Error deleting account:", error);
+        // }
+        //TODO implement delete account
+        await logOut();
+        setUser(null);
+        setIsLogged(false);
         router.replace("/");
     }
 
